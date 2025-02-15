@@ -50,6 +50,41 @@ This platform empowers organizations and individuals to participate in sustainab
    ```
 
 ---
+### Working video of MVP
+
+
+
+https://github.com/user-attachments/assets/8de7f831-4de8-4c5c-b5db-6f1d2d529045
+
+
+# How MVP works
+
+## [Tokenization](pplx://action/followup)
+
+- Carbon credits minted as unique NFTs
+- Ensures verifiability and prevents double-counting
+
+## [Verification and Transparency](pplx://action/followup)
+
+- NFTs contain embedded verification data
+  - Proves authenticity
+  - Demonstrates environmental impact
+- Real-time transparency dashboard
+  - Tracks credit lifecycle
+
+## [Authorized Minting](pplx://action/followup)
+
+- Restricted to authorized entities (e.g., environmental agencies)
+- Ensures credibility of minted credits
+
+## [Trading and Retirement](pplx://action/followup)
+
+- Secure NFT trading on platform marketplace
+- Credit retirement process
+  - Prevents further trading
+  - Ensures accountability
+
+
 
 
 
